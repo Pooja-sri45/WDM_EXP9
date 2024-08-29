@@ -26,5 +26,12 @@ for this purpose.
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/8538d682-88aa-4928-89d6-ea425e9f0f0a)
+![image](https://github.com/user-attachments/assets/5d9eb96f-315e-40fb-b220-d13d5659c829)
+![image](https://github.com/user-attachments/assets/d652e86c-635d-43a4-94ac-f05eb5bef39b)
+![image](https://github.com/user-attachments/assets/64d6b928-73d9-4226-9590-aebfdde37e67)
+
+
+
 
 ### Result:
